@@ -1,0 +1,17 @@
+.btn {
+  border: none;
+  color: white;
+  width: 135px;
+  height: 42px;
+  padding: 8px, 30px, 8px, 30px;
+  border-radius: 6px;
+  cursor: pointer;
+  gap: 8px;
+  transition: background 0.25s;
+}
+.btn:hover {
+  background: #222277;
+}
+.accent {
+  background: #312eb5;
+}
